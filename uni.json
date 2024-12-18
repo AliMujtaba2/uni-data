@@ -1,0 +1,1004 @@
+{
+    "universities": [
+      {
+        "name": "University of the Punjab",
+        "campus": "Lahore, Punjab, Pakistan",
+        "ranking": "1",
+        "fees": "600000",
+        "details": "Established in 1882, offers a variety of programs.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/university-of-the-punjab-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Aga Khan University",
+        "campus": "Karachi, Sindh, Pakistan",
+        "ranking": "2",
+        "fees": "2000000",
+        "details": "Established in 1983, focuses on health sciences.",
+        "specializedDepartments": ["Medicine", "Nursing"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/aga-khan-university-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Quaid-i-Azam University",
+        "campus": "Islamabad, Pakistan",
+        "ranking": "3",
+        "fees": "1800000",
+        "details": "Established in 1967, it is a public research university.",
+        "specializedDepartments": ["Natural Sciences", "Social Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/quaid-i-azam-university-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "University of Karachi",
+        "campus": "Karachi, Sindh, Pakistan",
+        "ranking": "4",
+        "fees": "476200",
+        "details": "Established in 1951, it is one of the largest universities in Pakistan.",
+        "specializedDepartments": ["Science", "Engineering", "Medicine", "Law"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/university-of-karachi-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Lahore University of Management Sciences",
+        "campus": "Lahore, Punjab, Pakistan",
+        "ranking": "5",
+        "fees": "4727000",
+        "details": "Established in 1985, LUMS is a private research university.",
+        "specializedDepartments": ["Business", "Law", "Science and Engineering"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/lahore-university-of-management-sciences-logo.png",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "University of Engineering and Technology, Lahore",
+        "campus": "Lahore, Pakistan",
+        "ranking": "6",
+        "fees": "1400000",
+        "details": "Established in 1921, it focuses on engineering.",
+        "specializedDepartments": ["Engineering", "Technology"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/university-of-engineering-and-technology-lahore-logo.png",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "COMSATS Institute of Information Technology",
+        "campus": "Islamabad, Pakistan",
+        "ranking": "7",
+        "fees": "1430000",
+        "details": "Established in 1998, known for its engineering programs.",
+        "specializedDepartments": ["Engineering", "Information Technology"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/comsats-institute-of-information-technology-logo.jpg",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "Bahauddin Zakariya University",
+        "campus": "Multan, Punjab, Pakistan",
+        "ranking": "8",
+        "fees": "800000",
+        "details": "Established in 1975, offers various programs.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/bahauddin-zakariya-university-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "National University of Sciences and Technology",
+        "campus": "Islamabad, Pakistan",
+        "ranking": "9",
+        "fees": "1424000",
+        "details": "Established in 1991, NUST focuses on science and technology.",
+        "specializedDepartments": ["Engineering", "Management", "Social Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/national-university-of-sciences-and-technology-logo.png",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "University of Peshawar",
+        "campus": "Peshawar, Khyber Pakhtunkhwa, Pakistan",
+        "ranking": "10",
+        "fees": "600000",
+        "details": "Established in 1950, offers various programs.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/university-of-peshawar-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "National University of Computer and Emerging Sciences",
+        "campus": "Islamabad, Pakistan",
+        "ranking": "11",
+        "fees": "1200000",
+        "details": "Established in 2000, focuses on computer science.",
+        "specializedDepartments": ["Computer Science", "Engineering"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/national-university-of-computer-and-emerging-sciences-logo.png",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "Islamia University of Bahawalpur",
+        "campus": "Bahawalpur, Punjab, Pakistan",
+        "ranking": "12",
+        "fees": "750000",
+        "details": "Established in 1975, offers various programs.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/the-islamia-university-of-bahawalpur-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "International Islamic University, Islamabad",
+        "campus": "Islamabad, Pakistan",
+        "ranking": "13",
+        "fees": "900000",
+        "details": "Established in 1980, focuses on Islamic studies.",
+        "specializedDepartments": ["Islamic Studies", "Business"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/international-islamic-university-islamabad-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "University of Lahore",
+        "campus": "Lahore, Punjab, Pakistan",
+        "ranking": "14",
+        "fees": "1000000",
+        "details": "Offers a variety of programs.",
+        "specializedDepartments": ["Business", "Engineering"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/the-university-of-lahore-logo.png",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "Bahria University",
+        "campus": "Islamabad, Pakistan",
+        "ranking": "15",
+        "fees": "900000",
+        "details": "Established in 2000, offers programs in multiple disciplines.",
+        "specializedDepartments": ["Management", "Engineering"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/bahria-university-logo.png",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "Mehran University of Engineering and Technology",
+        "campus": "Jamshoro, Sindh, Pakistan",
+        "ranking": "16",
+        "fees": "900000",
+        "details": "Established in 1976, it focuses on engineering.",
+        "specializedDepartments": ["Engineering", "Technology"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/mehran-university-of-engineering-and-technology-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "University of Sindh",
+        "campus": "Jamshoro, Sindh, Pakistan",
+        "ranking": "17",
+        "fees": "600000",
+        "details": "Established in 1947, it offers a variety of disciplines.",
+        "specializedDepartments": ["Arts", "Business"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/university-of-sindh-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "University of Central Punjab",
+        "campus": "Lahore, Punjab, Pakistan",
+        "ranking": "18",
+        "fees": "600000",
+        "details": "Established in 2002, known for business programs.",
+        "specializedDepartments": ["Business Administration", "Information Technology"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/university-of-central-punjab-logo.jpg",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "Government College University, Lahore",
+        "campus": "Lahore, Punjab, Pakistan",
+        "ranking": "19",
+        "fees": "700000",
+        "details": "Established in 1864, it offers various programs.",
+        "specializedDepartments": ["Arts", "Science"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/government-college-university-lahore-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "NED University of Engineering and Technology",
+        "campus": "Karachi, Sindh, Pakistan",
+        "ranking": "20",
+        "fees": "1200000",
+        "details": "Established in 1921, it is one of the oldest engineering universities.",
+        "specializedDepartments": ["Civil Engineering", "Mechanical Engineering"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/ned-university-of-engineering-and-technology-logo.png",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "Dow University of Health Sciences",
+        "campus": "Karachi, Sindh, Pakistan",
+        "ranking": "21",
+        "fees": "1500000",
+        "details": "Established in 1945, it is a prestigious medical institution.",
+        "specializedDepartments": ["Medicine", "Dentistry"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/dow-university-of-health-sciences-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Allama Iqbal Open University",
+        "campus": "Islamabad, Pakistan",
+        "ranking": "22",
+        "fees": "500000",
+        "details": "Established in 1974, it is a distance learning institution.",
+        "specializedDepartments": ["Education", "Social Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/allama-iqbal-open-university-logo.png",
+        "campusLife": "No"
+      },
+      {
+        "name": "Fatima Jinnah Women University",
+        "campus": "Rawalpindi, Punjab, Pakistan",
+        "ranking": "23",
+        "fees": "800000",
+        "details": "Established in 1998, it is the first women’s university.",
+        "specializedDepartments": ["Arts", "Social Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/fatima-jinnah-women-university-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Superior University",
+        "campus": "Lahore, Punjab, Pakistan",
+        "ranking": "24",
+        "fees": "850000",
+        "details": "Provides innovative education.",
+        "specializedDepartments": ["Business Administration", "Engineering"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/superior-university-logo.png",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "Liaquat University of Medical and Health Sciences",
+        "campus": "Jamshoro, Sindh, Pakistan",
+        "ranking": "25",
+        "fees": "900000",
+        "details": "Focuses on medical education.",
+        "specializedDepartments": ["Medicine", "Nursing"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/liaquat-university-of-medical-and-health-sciences-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Shifa Tameer-e-Millat University",
+        "campus": "Islamabad, Pakistan",
+        "ranking": "26",
+        "fees": "1300000",
+        "details": "Medical university established in 2012.",
+        "specializedDepartments": ["Medicine", "Health Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/shifa-tameer-e-millat-university-logo.png",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "Institute of Business Administration (IBA)",
+        "campus": "Karachi, Sindh, Pakistan",
+        "ranking": "27",
+        "fees": "2000000",
+        "details": "Focuses on business education.",
+        "specializedDepartments": ["Business Administration", "Management"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/institute-of-business-administration-logo.png",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "Pakistan Institute of Engineering and Applied Sciences (PIEAS)",
+        "campus": "Islamabad, Pakistan",
+        "ranking": "28",
+        "fees": "1400000",
+        "details": "Established in 1967, focuses on engineering.",
+        "specializedDepartments": ["Engineering", "Applied Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/pakistan-institute-of-engineering-and-applied-sciences-logo.png",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)",
+        "campus": "Topi, Khyber Pakhtunkhwa, Pakistan",
+        "ranking": "29",
+        "fees": "1700000",
+        "details": "Established in 1993, focuses on engineering.",
+        "specializedDepartments": ["Engineering", "Computer Science"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/ghulam-ishaq-khan-institute-of-engineering-sciences-and-technology-logo.png",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "Indus Valley School of Art and Architecture",
+        "campus": "Karachi, Sindh, Pakistan",
+        "ranking": "30",
+        "fees": "2000000",
+        "details": "Focuses on art and design.",
+        "specializedDepartments": ["Architecture", "Fine Arts"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/indus-valley-school-of-art-and-architecture-logo.png",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "University of Science and Technology",
+        "campus": "Khanewal, Punjab, Pakistan",
+        "ranking": "31",
+        "fees": "850000",
+        "details": "Offers a variety of programs.",
+        "specializedDepartments": ["Engineering", "Information Technology"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/university-of-science-and-technology-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Abdul Wali Khan University Mardan",
+        "campus": "Mardan, Khyber Pakhtunkhwa, Pakistan",
+        "ranking": "32",
+        "fees": "600000",
+        "details": "Established in 2009, offers various programs.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/abdul-wali-khan-university-mardan-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Khwaja Fareed University of Engineering and Information Technology",
+        "campus": "Rahim Yar Khan, Punjab, Pakistan",
+        "ranking": "33",
+        "fees": "900000",
+        "details": "Established in 2014, focuses on engineering.",
+        "specializedDepartments": ["Engineering", "Information Technology"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/khwaja-fareed-university-of-engineering-and-information-technology-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "University of Azad Jammu and Kashmir",
+        "campus": "Muzaffarabad, Azad Jammu and Kashmir, Pakistan",
+        "ranking": "34",
+        "fees": "800000",
+        "details": "Established in 1980, offers various programs.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/university-of-azad-jammu-and-kashmir-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Virtual University of Pakistan",
+        "campus": "Lahore, Punjab, Pakistan",
+        "ranking": "35",
+        "fees": "500000",
+        "details": "Established in 2002, offers online education.",
+        "specializedDepartments": ["Computer Science", "Business Administration"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/virtual-university-of-pakistan-logo.png",
+        "campusLife": "No"
+      },
+      {
+        "name": "National College of Arts",
+        "campus": "Lahore, Punjab, Pakistan",
+        "ranking": "36",
+        "fees": "1500000",
+        "details": "Established in 1875, prestigious art institution.",
+        "specializedDepartments": ["Fine Arts", "Design"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/national-college-of-arts-logo.png",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "Sir Syed University of Engineering and Technology",
+        "campus": "Karachi, Sindh, Pakistan",
+        "ranking": "37",
+        "fees": "900000",
+        "details": "Established in 1993, offers engineering programs.",
+        "specializedDepartments": ["Electrical Engineering", "Civil Engineering"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/sir-syed-university-of-engineering-and-technology-logo.png",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "Dadabhoy Institute of Higher Education",
+        "campus": "Karachi, Sindh, Pakistan",
+        "ranking": "38",
+        "fees": "700000",
+        "details": "Established in 2003, offers various programs.",
+        "specializedDepartments": ["Business Administration", "Computer Science"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/dadabhoy-institute-of-higher-education-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Jinnah University for Women",
+        "campus": "Karachi, Sindh, Pakistan",
+        "ranking": "39",
+        "fees": "850000",
+        "details": "First women's university in Pakistan.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/jinnah-university-for-women-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "National Textile University",
+        "campus": "Faisalabad, Punjab, Pakistan",
+        "ranking": "40",
+        "fees": "1200000",
+        "details": "Established in 1959, specializes in textile education.",
+        "specializedDepartments": ["Textile Engineering", "Management"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/national-textile-university-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Shaheed Mohtarma Benazir Bhutto Medical University",
+        "campus": "Larkana, Sindh, Pakistan",
+        "ranking": "41",
+        "fees": "900000",
+        "details": "Focuses on medical education.",
+        "specializedDepartments": ["Medicine", "Nursing"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/shaheed-mohtarma-benazir-bhutto-medical-university-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Shaheed Benazir Bhutto Women University",
+        "campus": "Peshawar, Khyber Pakhtunkhwa, Pakistan",
+        "ranking": "42",
+        "fees": "1000000",
+        "details": "Established in 2009, focused on women's education.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/shaheed-benazir-bhutto-women-university-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "University of Poonch",
+        "campus": "Rawalakot, Azad Jammu and Kashmir, Pakistan",
+        "ranking": "43",
+        "fees": "700000",
+        "details": "Established in 2012, offers various programs.",
+        "specializedDepartments": ["Agriculture", "Veterinary Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/university-of-poonch-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Ghazi University",
+        "campus": "Dera Ghazi Khan, Punjab, Pakistan",
+        "ranking": "44",
+        "fees": "800000",
+        "details": "Established in 2012, various programs offered.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/ghazi-university-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "UET Taxila",
+        "campus": "Taxila, Punjab, Pakistan",
+        "ranking": "45",
+        "fees": "900000",
+        "details": "Established in 1975, known for its engineering programs.",
+        "specializedDepartments": ["Engineering", "Computer Science"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/uet-taxila-logo.png",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "Al-Khair University",
+        "campus": "Mirpur, Azad Jammu and Kashmir, Pakistan",
+        "ranking": "46",
+        "fees": "600000",
+        "details": "Established in 1994, offers various programs.",
+        "specializedDepartments": ["Business Administration", "Computer Science"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/al-khair-university-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "University of Gujrat",
+        "campus": "Gujrat, Punjab, Pakistan",
+        "ranking": "47",
+        "fees": "700000",
+        "details": "Established in 2004, offers a range of programs.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/university-of-gujrat-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Karakoram International University",
+        "campus": "Gilgit, Gilgit-Baltistan, Pakistan",
+        "ranking": "48",
+        "fees": "800000",
+        "details": "Established in 2002, offers various programs.",
+        "specializedDepartments": ["Environmental Sciences", "Business Administration"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/karakoram-international-university-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Pakistan Naval Academy",
+        "campus": "Karachi, Sindh, Pakistan",
+        "ranking": "49",
+        "fees": "900000",
+        "details": "Established in 1970, premier naval training institution.",
+        "specializedDepartments": ["Naval Engineering", "Navigation"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/pakistan-naval-academy-logo.png",
+        "campusLife": "No"
+      },
+      {
+        "name": "Pakistan Military Academy",
+        "campus": "Kakul, Khyber Pakhtunkhwa, Pakistan",
+        "ranking": "50",
+        "fees": "1500000",
+        "details": "Established in 1947, military training institution.",
+        "specializedDepartments": ["Military Science", "Leadership Studies"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/pakistan-military-academy-logo.png",
+        "campusLife": "No"
+      },
+      {
+        "name": "Aga Khan University Examination Board",
+        "campus": "Karachi, Sindh, Pakistan",
+        "ranking": "51",
+        "fees": "500000",
+        "details": "Established in 2003, offers quality education.",
+        "specializedDepartments": ["Education", "Assessment"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/aga-khan-university-examination-board-logo.png",
+        "campusLife": "No"
+      },
+      {
+        "name": "Habib University",
+        "campus": "Karachi, Sindh, Pakistan",
+        "ranking": "52",
+        "fees": "2000000",
+        "details": "Established in 2014, liberal arts education.",
+        "specializedDepartments": ["Arts", "Humanities"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/habib-university-logo.png",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "University of Health Sciences, Lahore",
+        "campus": "Lahore, Punjab, Pakistan",
+        "ranking": "53",
+        "fees": "1200000",
+        "details": "Established in 2002, focuses on health sciences.",
+        "specializedDepartments": ["Medicine", "Public Health"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/university-of-health-sciences-lahore-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Khyber Medical University",
+        "campus": "Peshawar, Khyber Pakhtunkhwa, Pakistan",
+        "ranking": "54",
+        "fees": "600000",
+        "details": "Established in 2006, focuses on medical education.",
+        "specializedDepartments": ["Medicine", "Dentistry"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/khyber-medical-university-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Hazara University",
+        "campus": "Mansehra, Khyber Pakhtunkhwa, Pakistan",
+        "ranking": "55",
+        "fees": "400000",
+        "details": "Established in 2001, offers various programs.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/hazara-university-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Sukkur Institute of Business Administration",
+        "campus": "Sukkur, Sindh, Pakistan",
+        "ranking": "56",
+        "fees": "800000",
+        "details": "Focuses on business education.",
+        "specializedDepartments": ["Business Administration", "Management"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/sukkur-institute-of-business-administration-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Kinnaird College for Women",
+        "campus": "Lahore, Punjab, Pakistan",
+        "ranking": "57",
+        "fees": "800000",
+        "details": "Established in 1913, offers women-focused education.",
+        "specializedDepartments": ["Arts", "Humanities"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/kinnaird-college-for-women-logo.jpg",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "Ziauddin University",
+        "campus": "Karachi, Sindh, Pakistan",
+        "ranking": "58",
+        "fees": "1500000",
+        "details": "Focuses on health sciences and engineering.",
+        "specializedDepartments": ["Medicine", "Engineering"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/ziauddin-university-logo.png",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "Pakistan Institute of Development Economics",
+        "campus": "Islamabad, Pakistan",
+        "ranking": "59",
+        "fees": "700000",
+        "details": "Established in 1957, focusing on economics.",
+        "specializedDepartments": ["Economics", "Development Studies"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/pakistan-institute-of-development-economics-logo.jpg",
+        "campusLife": "No"
+      },
+      {
+        "name": "Institute of Space Technology",
+        "campus": "Islamabad, Pakistan",
+        "ranking": "60",
+        "fees": "1400000",
+        "details": "Focuses on aerospace engineering.",
+        "specializedDepartments": ["Engineering", "Space Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/institute-of-space-technology-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Islamia College Peshawar",
+        "campus": "Peshawar, Khyber Pakhtunkhwa, Pakistan",
+        "ranking": "61",
+        "fees": "500000",
+        "details": "Established in 1913, offers various programs.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/islamia-college-peshawar-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Iqra University",
+        "campus": "Karachi, Sindh, Pakistan",
+        "ranking": "62",
+        "fees": "800000",
+        "details": "Established in 1998, offers diverse programs.",
+        "specializedDepartments": ["Business", "Media Studies"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/iqra-university-logo.png",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "University of Agriculture, Peshawar",
+        "campus": "Peshawar, Khyber Pakhtunkhwa, Pakistan",
+        "ranking": "63",
+        "fees": "600000",
+        "details": "Established in 1981, focuses on agriculture.",
+        "specializedDepartments": ["Agriculture", "Forestry"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/university-of-agriculture-peshawar-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "National Textile University",
+        "campus": "Faisalabad, Punjab, Pakistan",
+        "ranking": "64",
+        "fees": "1200000",
+        "details": "Established in 1959, specializes in textile education.",
+        "specializedDepartments": ["Textile Engineering", "Management"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/national-textile-university-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology",
+        "campus": "Karachi, Sindh, Pakistan",
+        "ranking": "65",
+        "fees": "1200000",
+        "details": "Focuses on science and technology.",
+        "specializedDepartments": ["Engineering", "Management"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/shaheed-zulfiqar-ali-bhutto-institute-of-science-and-technology-logo.png",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "Lahore School of Economics",
+        "campus": "Lahore, Punjab, Pakistan",
+        "ranking": "66",
+        "fees": "1300000",
+        "details": "Focuses on economics and business education.",
+        "specializedDepartments": ["Economics", "Business"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/lahore-school-of-economics-logo.jpg",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "Sindh Agriculture University",
+        "campus": "Tandojam, Sindh, Pakistan",
+        "ranking": "67",
+        "fees": "600000",
+        "details": "Established in 1970, focuses on agriculture.",
+        "specializedDepartments": ["Agriculture", "Food Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/sindh-agriculture-university-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Rawalpindi Medical University",
+        "campus": "Rawalpindi, Punjab, Pakistan",
+        "ranking": "68",
+        "fees": "1500000",
+        "details": "Established in 2015, focuses on medical education.",
+        "specializedDepartments": ["Medicine", "Nursing"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/rawalpindi-medical-university-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Hamdard University",
+        "campus": "Karachi, Sindh, Pakistan",
+        "ranking": "69",
+        "fees": "700000",
+        "details": "Established in 1991, offers various programs.",
+        "specializedDepartments": ["Medicine", "Engineering"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/hamdard-university-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Kohat University of Science and Technology",
+        "campus": "Kohat, Khyber Pakhtunkhwa, Pakistan",
+        "ranking": "70",
+        "fees": "600000",
+        "details": "Established in 2001, offers various programs.",
+        "specializedDepartments": ["Engineering", "Management"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/kohat-university-of-science-and-technology-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "University of Malakand",
+        "campus": "Dargai, Khyber Pakhtunkhwa, Pakistan",
+        "ranking": "71",
+        "fees": "400000",
+        "details": "Established in 2001, offers various programs.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/university-of-malakand-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Foundation University Islamabad",
+        "campus": "Islamabad, Pakistan",
+        "ranking": "72",
+        "fees": "800000",
+        "details": "Established in 2002, offers a range of programs.",
+        "specializedDepartments": ["Engineering", "Business"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/foundation-university-islamabad-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Fatima Jinnah Medical University",
+        "campus": "Lahore, Punjab, Pakistan",
+        "ranking": "73",
+        "fees": "1500000",
+        "details": "Focuses on medical education.",
+        "specializedDepartments": ["Medicine", "Nursing"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/fatima-jinnah-medical-university-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "University of Haripur",
+        "campus": "Haripur, Khyber Pakhtunkhwa, Pakistan",
+        "ranking": "74",
+        "fees": "600000",
+        "details": "Established in 2001, offers various programs.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/university-of-haripur-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Karakurum International University",
+        "campus": "Gilgit, Gilgit-Baltistan, Pakistan",
+        "ranking": "75",
+        "fees": "800000",
+        "details": "Established in 2002, offers various programs.",
+        "specializedDepartments": ["Environmental Sciences", "Business Administration"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/karakurum-international-university-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Balochistan University of Information Technology, Engineering and Management Sciences",
+        "campus": "Quetta, Balochistan, Pakistan",
+        "ranking": "76",
+        "fees": "700000",
+        "details": "Focuses on IT and engineering.",
+        "specializedDepartments": ["Information Technology", "Engineering"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/balochistan-university-of-information-technology-engineering-and-management-sciences-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "University of Science and Technology, Bannu",
+        "campus": "Bannu, Khyber Pakhtunkhwa, Pakistan",
+        "ranking": "77",
+        "fees": "500000",
+        "details": "Established in 2004, offers various programs.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/university-of-science-and-technology-bannu-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Beaconhouse National University",
+        "campus": "Lahore, Punjab, Pakistan",
+        "ranking": "78",
+        "fees": "1000000",
+        "details": "Focuses on liberal arts education.",
+        "specializedDepartments": ["Arts", "Media Studies"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/beaconhouse-national-university-logo.png",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "Baqai Medical University",
+        "campus": "Karachi, Sindh, Pakistan",
+        "ranking": "79",
+        "fees": "1500000",
+        "details": "Focuses on medical education.",
+        "specializedDepartments": ["Medicine", "Dentistry"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/baqai-medical-university-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Karachi Institute of Economics and Technology",
+        "campus": "Karachi, Sindh, Pakistan",
+        "ranking": "80",
+        "fees": "800000",
+        "details": "Focuses on economics and technology.",
+        "specializedDepartments": ["Economics", "Information Technology"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/karachi-institute-of-economics-and-technology-logo.png",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "Shah Abdul Latif University",
+        "campus": "Khairpur, Sindh, Pakistan",
+        "ranking": "81",
+        "fees": "600000",
+        "details": "Established in 1976, offers various programs.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/shah-abdul-latif-university-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "HITEC University",
+        "campus": "Taxila, Punjab, Pakistan",
+        "ranking": "82",
+        "fees": "900000",
+        "details": "Established in 2012, focuses on engineering.",
+        "specializedDepartments": ["Engineering", "Computer Science"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/hitec-university-logo.jpg",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "Sarhad University of Science and Information Technology",
+        "campus": "Peshawar, Khyber Pakhtunkhwa, Pakistan",
+        "ranking": "83",
+        "fees": "600000",
+        "details": "Established in 2001, offers various programs.",
+        "specializedDepartments": ["Engineering", "Information Technology"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/sarhad-university-of-science-and-information-technology-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Quaid-e-Awam University of Engineering, Science and Technology",
+        "campus": "Nawabshah, Sindh, Pakistan",
+        "ranking": "84",
+        "fees": "800000",
+        "details": "Established in 2001, focuses on engineering.",
+        "specializedDepartments": ["Engineering", "Technology"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/quaid-e-awam-university-of-engineering-science-and-technology-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Isra University",
+        "campus": "Hyderabad, Sindh, Pakistan",
+        "ranking": "85",
+        "fees": "900000",
+        "details": "Established in 2009, offers various programs.",
+        "specializedDepartments": ["Medicine", "Engineering"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/isra-university-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Government College Women University, Faisalabad",
+        "campus": "Faisalabad, Punjab, Pakistan",
+        "ranking": "86",
+        "fees": "600000",
+        "details": "Focuses on women’s education.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/government-college-women-university-faisalabad-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Indus University, Pakistan",
+        "campus": "Karachi, Sindh, Pakistan",
+        "ranking": "87",
+        "fees": "800000",
+        "details": "Established in 2005, offers various programs.",
+        "specializedDepartments": ["Business", "Engineering"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/indus-university-pakistan-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "DHA Suffa University",
+        "campus": "Karachi, Sindh, Pakistan",
+        "ranking": "88",
+        "fees": "1000000",
+        "details": "Established in 2012, offers programs in multiple disciplines.",
+        "specializedDepartments": ["Engineering", "Business"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/dha-suffa-university-logo.png",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "University of Science and Technology, Bannu",
+        "campus": "Bannu, Khyber Pakhtunkhwa, Pakistan",
+        "ranking": "89",
+        "fees": "500000",
+        "details": "Established in 2004, offers various programs.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/university-of-science-and-technology-bannu-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Bacha Khan University",
+        "campus": "Charsadda, Khyber Pakhtunkhwa, Pakistan",
+        "ranking": "90",
+        "fees": "600000",
+        "details": "Established in 2012, offers various programs.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/bacha-khan-university-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Shaheed Benazir Bhutto University, Shaheed Benazirabad",
+        "campus": "Shaheed Benazirabad, Sindh, Pakistan",
+        "ranking": "91",
+        "fees": "700000",
+        "details": "Established in 2009, offers various programs.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/shaheed-benazir-bhutto-university-shaheed-benazirabad-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Abasyn University",
+        "campus": "Peshawar, Khyber Pakhtunkhwa, Pakistan",
+        "ranking": "92",
+        "fees": "600000",
+        "details": "Established in 2007, offers various programs.",
+        "specializedDepartments": ["Engineering", "Management"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/abasyn-university-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Preston University",
+        "campus": "Islamabad, Pakistan",
+        "ranking": "93",
+        "fees": "700000",
+        "details": "Established in 1986, offers various programs.",
+        "specializedDepartments": ["Business Administration", "Social Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/preston-university-logo.jpg",
+        "campusLife": "No"
+      },
+      {
+        "name": "Government College University, Faisalabad",
+        "campus": "Faisalabad, Punjab, Pakistan",
+        "ranking": "94",
+        "fees": "600000",
+        "details": "Established in 1899, offers various programs.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/government-college-university-faisalabad-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "University of Swat",
+        "campus": "Swat, Khyber Pakhtunkhwa, Pakistan",
+        "ranking": "95",
+        "fees": "600000",
+        "details": "Established in 2010, offers various programs.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/university-of-swat-logo.png",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "University of Balochistan",
+        "campus": "Quetta, Balochistan, Pakistan",
+        "ranking": "96",
+        "fees": "720000",
+        "details": "Established in 1970, offers various programs.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/university-of-balochistan-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Liaquat University of Medical and Health Sciences",
+        "campus": "Jamshoro, Sindh, Pakistan",
+        "ranking": "97",
+        "fees": "900000",
+        "details": "Focuses on medical education.",
+        "specializedDepartments": ["Medicine", "Nursing"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/liaquat-university-of-medical-and-health-sciences-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "Kinnaird College for Women",
+        "campus": "Lahore, Punjab, Pakistan",
+        "ranking": "98",
+        "fees": "800000",
+        "details": "Established in 1913, offers women-focused education.",
+        "specializedDepartments": ["Arts", "Humanities"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/kinnaird-college-for-women-logo.jpg",
+        "campusLife": "Vibrant"
+      },
+      {
+        "name": "Shaheed Benazir Bhutto University, Shaheed Benazirabad",
+        "campus": "Shaheed Benazirabad, Sindh, Pakistan",
+        "ranking": "99",
+        "fees": "700000",
+        "details": "Established in 2009, offers various programs.",
+        "specializedDepartments": ["Arts", "Sciences"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/shaheed-benazir-bhutto-university-shaheed-benazirabad-logo.jpg",
+        "campusLife": "Moderate"
+      },
+      {
+        "name": "DHA Suffa University",
+        "campus": "Karachi, Sindh, Pakistan",
+        "ranking": "100",
+        "fees": "1000000",
+        "details": "Established in 2012, offers programs in multiple disciplines.",
+        "specializedDepartments": ["Engineering", "Business"],
+        "imageUrl": "https://edurank.org/assets/img/uni-logos/dha-suffa-university-logo.png",
+        "campusLife": "Vibrant"
+      }
+    ]
+  }
